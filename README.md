@@ -81,4 +81,4 @@ MIT
 
 ## Авторы
 
-[Ваше имя/организация] 
+[Создано командой Cybersecurity Alliance/RSUE] 
